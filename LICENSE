@@ -1,21 +1,138 @@
-MIT License
+End User License Agreement (EULA)
 
-Copyright (c) 2026 Luos-chuan
+For: Cryinstalline Rock Engine  
+Version: 1.0
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. License Grant
+The Licensor grants the User a non-exclusive, non-transferable, non-sublicensable license to install and use the Software solely as permitted under this Agreement.
+The User may use the Software only for purposes explicitly allowed by the Licensor.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. Intellectual Property Rights
+The Software, including but not limited to its source code, binaries, documentation, design, structure, and interfaces, is the exclusive property of the Licensor.
+This Agreement does not transfer ownership of the Software.
+All rights not expressly granted to the User remain with the Licensor.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. Restrictions
+The User must not:
+
+    Remove or alter copyright notices, trademarks, or proprietary labels
+
+    Use the Software to develop competing products
+
+    Distribute, rent, lease, sell, or transfer the Software without written permission
+
+    Use the Software for any unlawful purpose
+
+    Attempt to bypass or disable technical protection mechanisms
+
+4. Updates and Support
+The Licensor may, at its sole discretion, provide updates, patches, or technical support.
+The User is not entitled to ongoing maintenance, feature additions, or support unless explicitly agreed in writing.
+
+5. Disclaimer of Warranties
+The Software is provided “as is”, without any express or implied warranties, including but not limited to:
+
+    Merchantability
+
+    Fitness for a particular purpose
+
+    Reliability
+
+    Error-free operation
+
+The User assumes all risks associated with using the Software.
+
+6. Limitation of Liability
+Under no circumstances shall the Licensor be liable for:
+
+    Loss of data
+
+    Loss of profits
+
+    Business interruption
+
+    Indirect, incidental, or consequential damages
+
+This limitation applies even if the Licensor has been advised of the possibility of such damages.
+
+7. Termination
+This Agreement terminates automatically if the User violates any of its terms.
+Upon termination, the User must immediately cease all use of the Software and delete all copies in their possession.
+
+8. Governing Law
+This Agreement is governed by the laws of the jurisdiction in which the Licensor resides.
+Any disputes shall be resolved exclusively in the courts of that jurisdiction.
+
+9. Entire Agreement
+This Agreement constitutes the complete and exclusive understanding between the Licensor and the User regarding the Software and supersedes all prior agreements, whether written or oral.
+
+
+There are other Language about us License
+
+Chinese-cn
+软件最终用户许可协议（EULA）
+
+适用于：Cryinstalline Rock Engine  
+版本：1.0
+
+1. 许可授予
+本协议授予用户一项 非独占、不可转让、不可再授权 的许可，用于安装和使用本软件。
+用户仅可在本协议允许的范围内使用本软件，不得用于任何未授权目的。
+
+2. 知识产权
+本软件及其所有相关内容（包括但不限于源代码、二进制文件、文档、设计、结构、接口）均由 版权所有者（你） 持有全部知识产权。
+本协议不向用户转让任何所有权，仅授予有限使用权。
+
+3. 使用限制
+用户不得：
+
+    - 移除或修改版权声明、商标或其他权利标识
+
+    - 将本软件用于开发竞争性产品
+
+    - 将本软件用于任何非法用途
+
+    - 未经授权向第三方分发、出租、出售或转让本软件
+
+    - 试图绕过技术保护措施
+
+4. 更新与支持
+版权所有者可自行决定是否提供软件更新、补丁或技术支持。
+用户无权要求任何形式的持续维护或功能更新。
+
+5. 免责声明
+本软件按“现状”提供，不提供任何明示或暗示的保证，包括但不限于：
+
+    适销性
+
+    特定用途适用性
+
+    稳定性
+
+    无错误或无漏洞
+
+用户需自行承担使用本软件的风险。
+
+6. 责任限制
+在任何情况下，版权所有者不对以下情况承担责任：
+
+    数据丢失
+
+    利润损失
+
+    商业中断
+
+    间接、附带或惩罚性损害
+
+即使版权所有者已被告知可能发生此类损害。
+
+7. 终止条款
+如用户违反本协议任何条款，许可将自动终止。
+终止后，用户必须立即停止使用本软件并删除所有副本。
+
+8. 适用法律
+本协议受 你所在国家或地区的法律 管辖。
+任何争议应提交至该司法辖区的法院解决。
+
+9. 完整协议
+本协议构成双方关于本软件的完整协议，取代任何先前的口头或书面协议。
