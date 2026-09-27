@@ -1,5 +1,5 @@
 # Crystal Rock Engine
-![](Sandbox/Assets/ico.bmp)
+![ico](ico.png)
 ## Working State
 
 ### Render
