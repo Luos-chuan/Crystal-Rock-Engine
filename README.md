@@ -9,8 +9,6 @@
 - [ ] Forward+ 
 - [ ] Tiled Light Culling
 - [ ] 多光源阴影
-- [ ] G-Buffer
-- [ ] 屏幕空间光照计算
 
 ### Physics
 - [x] Soft
